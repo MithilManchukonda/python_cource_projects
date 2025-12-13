@@ -1,5 +1,7 @@
 import functions
-import freesimplegui as sg
+
+import FreeSimpleGUI as sg
+
 import time
 sg.theme("Black")
 clock = sg.Text('', key='clock')
